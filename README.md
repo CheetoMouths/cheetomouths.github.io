@@ -30,7 +30,3 @@
 - Opera (latest)
 - Edge (latest)
 - Internet Explorer 10+
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT) © [Chen Fengyuan](https://chenfengyuan.com)
