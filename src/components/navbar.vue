@@ -54,11 +54,6 @@
         :download="data.name"
         :href="data.url"
       ><span class="fa fa-download" /></a>
-      <a
-        class="nav__button"
-        href="https://github.com/fengyuanchen/photo-editor"
-        title="View on GitHub"
-      ><span class="fa fa-github" /></a>
     </nav>
   </div>
 </template>
