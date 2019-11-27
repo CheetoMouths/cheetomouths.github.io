@@ -2,7 +2,7 @@
 
 > A photo editing application based on the [Cropper.js](https://github.com/fengyuanchen/cropperjs).
 
-- [Website](https://fengyuanchen.github.io/photo-editor)
+- [Website](https://cheetomouths.com)
 
 ## Keyboard support
 
