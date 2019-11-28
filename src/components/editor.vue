@@ -22,11 +22,6 @@
         data-action="move"
         title="Move (M)"
       >
-      <button
-        class="toolbar__button"
-        data-action="cheeto"
-        title="Add Cheeto Dust"
-      >
         <span class="fa fa-arrows" />
       </button>
       <button
@@ -47,6 +42,13 @@
         class="toolbar__button"
         data-action="zoom-out"
         title="Zoom Out (O)"
+      >
+      <span class="fa fa-search-plus" />
+      </button>
+      <button
+        class="toolbar__button"
+        data-action="cheeto"
+        title="Cheeto"
       >
         <span class="fa fa-search-minus" />
       </button>
