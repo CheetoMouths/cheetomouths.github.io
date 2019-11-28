@@ -22,6 +22,11 @@
         data-action="move"
         title="Move (M)"
       >
+      <button
+        class="toolbar__button"
+        data-action=""
+        title="Add Cheeto Dust"
+      >
         <span class="fa fa-arrows" />
       </button>
       <button
