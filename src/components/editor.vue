@@ -24,7 +24,7 @@
       >
       <button
         class="toolbar__button"
-        data-action=""
+        data-action="move"
         title="Add Cheeto Dust"
       >
         <span class="fa fa-arrows" />
